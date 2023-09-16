@@ -1,0 +1,36 @@
+h3 {
+  font-size: 20px;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+}
+
+iframe {
+  width: 500px;
+  height: 500px;
+}
+
+a {
+  border-radius: 37px;
+  border: 1px solid blue;
+  padding: 20px;
+  margin-top: 30px;
+  width: 100px;
+  background-color: yellow;
+  color: black;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+#content-left {
+  width: 50%;
+  float: left;
+}
+
+#content-right {
+  width: 50%;
+  float: right;
+}
